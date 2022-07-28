@@ -1,0 +1,7 @@
+.carousel-item img {
+  height: 80vh;
+  object-fit: cover;
+}
+.nav-link {
+  padding-left: 25px !important;
+}
